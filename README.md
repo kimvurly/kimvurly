@@ -1,12 +1,6 @@
 <h1 align="center">hi i'm kimberly!!!</h1>
 <h3 align="center">☆☆</h3>
 
-- im super awesome
-
-- im really good at programming
-  
-- i am a pro at electric guitar
-
 <h3 align="left">connect with me!!!!:</h3>
 <p align="left">
 <a href="https://kaggle.com/kimberlyvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kimberlyvu" height="30" width="40" /></a>
