@@ -1,4 +1,4 @@
-<h1 align="center">hi i'm kimberly!!!</h1>
+<h1 align="center">i'm kimberly!!!</h1>
 <h3 align="center">☆☆</h3>
 
 <h3 align="left">connect with me!!!!:</h3>
