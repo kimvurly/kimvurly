@@ -1,7 +1,7 @@
 <img src="kimberly_logo.png" style="width: 300px">
 <h3 align="left">☆☆</h3>
 
-<p align="left">i really like to participate in math competitions, code (ofc), and listen to music! i like to make cute websites that reflect my interests, and also develop video games with godot and, hopefully in the future, unity!</p>
+<p align="left">i really like to participate in math competitions, code (ofc), and listen to music! i like to make cute websites that reflect my interests, and also develop video games with godot and unity!</p>
 
 <h3 align="left">i know/kinda know lol:</h3>
 <ul>
