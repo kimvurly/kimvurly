@@ -1,5 +1,5 @@
 <img src="kimberly_logo.png" style="width: 300px">
-<h3 align="center">☆☆</h3>
+<h3 align="left">☆☆</h3>
 
 <p align="left">i really like to participate in math competitions, code (ofc), and listen to music! i also like to practice my graphic design skills by coding cute websites :3</p>
 
