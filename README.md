@@ -1,7 +1,9 @@
-<h1 align="center">i'm kimberly!!!</h1>Add commentMore actions
+<h1 align="center">i'm kimberly!!!</h1>
 <h3 align="center">☆☆</h3>
 
-<h3 align="left">connect with me!!!!:</h3>
+<p align="left">i really like to participate in math competitions, code (ofc), and listen to music! i also like to practice my graphic design skills by coding cute websites :3</p>
+
+<h3 align="left">other coding profiles that i dont really use lol:</h3>
 <p align="left">
 <a href="https://kaggle.com/kimberlyvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kimberlyvu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kimvurly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kimvurly" height="30" width="40" /></a>
