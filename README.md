@@ -1,3 +1,4 @@
+<img src="kimberly_logo.png">
 <h1 align="center">i'm kimberly!!!</h1>
 <h3 align="center">☆☆</h3>
 
