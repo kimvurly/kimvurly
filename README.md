@@ -1,5 +1,4 @@
-<img src="kimberly_logo.png">
-<h1 align="center">i'm kimberly!!!</h1>
+<img src="kimberly_logo.png" style="width: 300px">
 <h3 align="center">☆☆</h3>
 
 <p align="left">i really like to participate in math competitions, code (ofc), and listen to music! i also like to practice my graphic design skills by coding cute websites :3</p>
