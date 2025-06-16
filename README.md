@@ -20,8 +20,6 @@
   <li>a new video game!</li>
 </ul>
 
-<h3 align="left">other awesome stuff:</h3>
-
 <!---
 kimvurly/kimvurly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
