@@ -20,6 +20,8 @@
   <li>a new video game!</li>
 </ul>
 
+https://github-readme-stats.hackclub.dev/api/wakatime?username=3779&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+
 <!---
 kimvurly/kimvurly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
