@@ -20,7 +20,7 @@
   <li>a new video game!</li>
 </ul>
 
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3779&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
+<img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3779&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
 
 <!---
 kimvurly/kimvurly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
