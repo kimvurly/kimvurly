@@ -5,8 +5,6 @@
 
 <h3 align="left">currently working on:</h3>
 <ul>
-  <li>a personal website (who-is-kimberly)</li>
-  <li>athena award from hackclub</li>
   <li>a spotify stats web app (stay tuned!!)</li>
 </ul>
 
