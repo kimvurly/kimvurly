@@ -5,7 +5,8 @@
 
 <h3 align="left">currently working on:</h3>
 <ul>
-  <li>a spotify stats web app (stay tuned!!)</li>
+  <li>figuring out ai for a project that i am really excited to start working on :))) it's related to math...ofc...</li>
+  <li>improving my web dev skills cus i hate css and it makes me rage whenever i make a new website</li>
 </ul>
 
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3779&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
